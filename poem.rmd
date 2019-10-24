@@ -1,0 +1,63 @@
+---
+title: "git_01"
+author: "Erika Munoz"
+date: "October 12, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Build a Poem with commits to different branches
+Our project will be done using a sequence of save and commits and branch actions.
+<!-- Do not modify or change any text in "!--" bracketed areas such as this --- these are instructions to
+you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
+
+## First Verse 
+<!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+
+Sent to a friend who had complained that I was glad enough to see   
+him when he came, but didn't seem to miss him if he stayed away.  
+
+And cannot pleasures, while they last,  
+Be actual unless, when past,  
+They leave us shuddering and aghast
+
+## Second Verse
+<!--Put the first five lines of a poem by Robert Frost here!-->
+
+The city had withdrawn into itself    
+And left at last the country to the country;    
+When between whirls of snow not come to lie    
+And whirls of foliage not yet laid, there drove    
+A stranger to our yard, who looked the city    
+
+## Third Verse
+<!--Put the first two verses of The Walrus and the Carpenter here!-->
+
+The sun was shining on the sea,    
+Shining with all his might:   
+He did his very best to make    
+The billows smooth and bright     
+And this was odd, because it was     
+The middle of the night.     
+
+The moon was shining sulkily,   
+Because she thought the sun   
+Had got no buissness to be there   
+After the day was done   
+"It's very rude of him," she said,   
+"To come and spoil the fun."  
+
+## Last Verse
+<!--Put a short poem of your choice 8-20 lines,here!-->
+
+
+If ever two were one, then surley we.  
+If ever man were loved by wfe, then thee.   
+If ever wife was happy in a man,  
+Compare with me, ye women, if you can.   
+I prize thy love more than whole mines of gold,  
+Or all the riches that the East doth hold.  
+My love is such that rivers cannot quench,  
+Nor ought but love from thee give recompense.  
